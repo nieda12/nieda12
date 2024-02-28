@@ -1,7 +1,7 @@
 # Helo World!
 
 
-- 👋 Hi, I’m @nieda12
+- 👋 Hi, I’m Tahta Nieda Aulia
 - 👋 I’m a mentee on IBM Advance AI Infinite Learning
 - 👀 I’m interested in AI, UI/UX
 - 🌱 I’m currently learning Python, Deep Learning
